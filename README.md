@@ -1,4 +1,4 @@
-<img src="./github-header-img.png" alt="Maciej Sawiński fullstack javascript developer">
+<img src="https://raw.githubusercontent.com/maciejsawinski/maciejsawinski/master/github-header-img.png" alt="Maciej Sawiński fullstack javascript developer">
 
 ## Hi, I'm Maciek 👋🏻
 
